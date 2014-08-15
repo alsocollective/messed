@@ -1,0 +1,5 @@
+== Install ==
+
+* NetCDF
+* Matplotlib
+* Numpy
